@@ -1,0 +1,2 @@
+# opautoclicker
+AutoClick
